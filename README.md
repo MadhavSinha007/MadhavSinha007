@@ -52,4 +52,3 @@
 ---
 
 > **"Building experiences, not just applications!"** 🚀
-](https://drive.google.com/file/d/1uC6JY1Z987pxwy-cLpV9JI77-S3ii7Ae/view?usp=sharing)
