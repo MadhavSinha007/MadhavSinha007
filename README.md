@@ -39,14 +39,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MadhavSinha007/MadhavSinha007/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🌍 Let's Connect!
 
 <p align="center">
