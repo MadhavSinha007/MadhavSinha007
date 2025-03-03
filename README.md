@@ -1,4 +1,4 @@
-[# 🚀 Welcome to My Developer Space!  
+# 🚀 Welcome to My Developer Space!  
 
 ![Banner](https://i.postimg.cc/j54WxFj3/Linked-In-cover-1.png)
 
