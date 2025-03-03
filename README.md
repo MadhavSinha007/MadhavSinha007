@@ -1,6 +1,7 @@
-# 🚀 Welcome to My Developer Space!  
+[# 🚀 Welcome to My Developer Space!  
 
-![Banner](https://readme-headers.vercel.app/api?text=Enthusiastic%20Designer%20and%20Developer!&color=gradient)
+![Banner](https://i.postimg.cc/j54WxFj3/Linked-In-cover-1.png)
+
 
 > **"Code. Design. Innovate."**  
 > Passionate about **UI/UX design, software development, and building seamless digital experiences**.
@@ -51,3 +52,4 @@
 ---
 
 > **"Building experiences, not just applications!"** 🚀
+](https://drive.google.com/file/d/1uC6JY1Z987pxwy-cLpV9JI77-S3ii7Ae/view?usp=sharing)
