@@ -13,7 +13,7 @@
 ##  Design Works:
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/MadhavSinha007)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/madhavsinha)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/@madhavsinha)
 
 
 ---
