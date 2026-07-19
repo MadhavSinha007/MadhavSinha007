@@ -1,13 +1,9 @@
 <div align="center">
 
-# 💫 About Me:
-# 🚀 Welcome to My Developer Space!
-
-![Banner](https://i.postimg.cc/j54WxFj3/Linked-In-cover-1.png)
-
+# Welcome to My Developer Space!
 <br>
 
-<h3><code>madbot@github ~ $ whoami</code></h3>
+<h3><code>MadhavSinha007@github ~ $ aboutme</code></h3>
 
 <table>
   <tr>
