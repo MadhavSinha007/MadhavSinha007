@@ -5,16 +5,28 @@
 
 ![Banner](https://i.postimg.cc/j54WxFj3/Linked-In-cover-1.png)
 
+<br>
+
+<h3><code>madbot@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait-ascii.svg" width="370" alt="Madhav Sinha — ASCII portrait" /></td>
+    <td valign="top"><img src="./info-card.svg" width="480" alt="Madhav Sinha — Experience, stack, highlights" /></td>
+  </tr>
+</table>
+
+<br>
+
 > **"Code. Design. Innovate."**
 > Passionate about **UI/UX design, software development, and building seamless digital experiences**.
 
 ---
 
-##  Design Works:
+## 🎨 Design Works:
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/MadhavSinha007)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/@madhavsinha)
-
 
 ---
 
@@ -55,7 +67,6 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
